@@ -1,0 +1,5 @@
+
+INFO - 2024-08-26 16:57:32,171: This is an important information
+WARNING - 2024-08-26 16:57:32,172: This is a warning!
+ERROR - 2024-08-26 16:57:32,172: This is an error!
+CRITICAL - 2024-08-26 16:57:32,172: This is critical!
